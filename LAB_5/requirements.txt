@@ -1,1 +1,6 @@
 num2word==1.0.1
+certifi==2023.5.7
+docopt==0.6.2
+num2words==0.5.12
+pipreqs==0.4.13
+requests==2.30.0
