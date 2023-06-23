@@ -4,11 +4,11 @@
 
 
 "C:\Users\shotf\AppData\Local\Microsoft\WindowsApps\python.exe"
-"C:\Users\shotf\OneDrive\Робочий стіл\Labs 3-6\Lab-3\pairs.py"
+"C:\Users\shotf\OneDrive\Робочий стіл\Ruslan-LAB/LAB_3 /Lab_3.py"
 
 ## Запуск програми з консолі 
 ```bash
- python3 pairs.py
+ python3 lAB_3.py
 ```
 
 ## Приклад виконаної роботи
