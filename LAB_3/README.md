@@ -1,4 +1,4 @@
-lab_3
+#lab_3
 "C:\Users\shotf\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\shotf\OneDrive\Робочий стіл\Ruslan-LAB/LAB_3
 /Lab_3.py
 "
